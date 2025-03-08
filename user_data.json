@@ -1,0 +1,53 @@
+[
+    {
+        "type": "browser_history",
+        "url": "https://example.com",
+        "title": "Example Website",
+        "timestamp": "2025-03-08 14:15:40"
+    },
+    {
+        "type": "system_data",
+        "os": "Windows",
+        "os_version": "10.0.26100",
+        "cpu_count": 8,
+        "total_ram": 8362713088
+    },
+    {
+        "type": "location_data",
+        "ip": "37.67.74.231",
+        "city": "Villeurbanne",
+        "region": "Auvergne-Rh\u00f4ne-Alpes",
+        "country": "FR"
+    },
+    {
+        "type": "fitness_data",
+        "steps": 1018,
+        "heart_rate": 73,
+        "sleep_hours": 6,
+        "timestamp": "2025-03-08 14:15:40"
+    },
+    {
+        "type": "social_media_activity",
+        "platform": "Twitter",
+        "posts": 8,
+        "likes": 54,
+        "shares": 18,
+        "timestamp": "2025-03-08 14:15:40"
+    },
+    {
+        "type": "ecommerce_data",
+        "platform": "Amazon",
+        "purchases": [
+            {
+                "item": "Laptop",
+                "price": 1200
+            },
+            {
+                "item": "Headphones",
+                "price": 150
+            }
+        ],
+        "total_spent": 1350,
+        "timestamp": "2025-03-08 14:15:40"
+    }
+]
