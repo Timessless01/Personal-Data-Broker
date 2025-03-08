@@ -68,3 +68,19 @@ Beta Testing: Launch a beta version and gather feedback.
 Blockchain Integration: Add secure, transparent transactions using blockchain.
 
 Mobile App: Expand to iOS and Android platforms etc ..so much needs to be done.its just getting started.
+
+Contact
+Have questions or want to collaborate? Reach out to us:
+
+Email: Lextellah@gmail.com
+
+X (Twitter): @nstenjo
+
+GitHub: https://github.com/Timessless01/Personal-Data-Broker
+
+Donate
+If you like this project and want to support its development, consider buying me a coffee! Your donation will help me continue working on this tool and bring it to life.
+
+Donate via PayPal https://paypal.me/stellahnjogezi
+
+Every contribution, no matter how small, makes a big difference. Thank you for your support! 💙
