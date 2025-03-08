@@ -1,5 +1,3 @@
-# **Personal Data Broker**
-
 ## **What is Personal Data Broker?**
 The **Personal Data Broker** is a revolutionary tool that empowers users to take control of their data and monetize it. In a world where tech giants profit from your personal information, this tool flips the script by giving you ownership, privacy, and a share of the profits.
 
